@@ -65,4 +65,3 @@ The `vercel.json` configuration is included for optimal routing.
 ## 📄 License
 
 Private project for Ember Coffee Co.
-
